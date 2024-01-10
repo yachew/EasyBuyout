@@ -144,7 +144,7 @@ namespace EasyBuyout.Settings
                                     {
                                             "Resonator", "Incubator", "UniqueMap", "Essence", "Scarab", "Fossil", "Oil",
                                             "DeliriumOrb",
-                                            "DivinationCard", "Prophecy",
+                                            "DivinationCard", "Beast",
                                             "Map", "UniqueArmour", "UniqueJewel", "UniqueFlask", "UniqueWeapon",
                                             "UniqueAccessory", "SkillGem"
                                     }
